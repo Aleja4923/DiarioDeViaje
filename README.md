@@ -5,7 +5,7 @@ Bienvenido a nuestro diario de viaje, donde compartimos experiencias y recomenda
 ## Destinos
 ​
 - [Viaje a París](entradas/paris.md): Descubre la ciudad del amor, con su icónica Torre Eiffel y maravillosos museos.
-- [Viaje a Italia](entradas/roma.md): Explora la historia y la cultura de la capital italiana.
+- [Viaje a Italia](entradas/italia.md): Explora la historia y la cultura de la capital italiana.
 - [Viaje a Canada](entradas/canada.md): Sumérgete en temperaturas que retaran tu resistencia!.
 - [Viaje a India](entradas/india.md): Ven y conoce las miles de diferentes religiones y culturas.
 - [Viaje a Peru](entradas/peru.md): Explora el machu pichu y conoce toda la cultura detras de ella.
